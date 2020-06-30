@@ -1,14 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/django-split-listview.svg?longCache=True)](https://pypi.org/project/django-split-listview/)
+
 [![](https://img.shields.io/pypi/v/django-split-listview.svg?maxAge=3600)](https://pypi.org/project/django-split-listview/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-split-listview.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-split-listview.py/)
+[![](https://github.com/andrewp-as-is/django-split-listview.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-split-listview.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install django-split-listview
 ```
@@ -35,5 +34,5 @@ class RepoListView(SplitListView):
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
